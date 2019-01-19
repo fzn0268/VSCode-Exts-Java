@@ -1,0 +1,5 @@
+redhat.java
+vscjava.vscode-maven
+vscjava.vscode-java-debug
+Pivotal.vscode-spring-boot
+vscjava.vscode-java-test
